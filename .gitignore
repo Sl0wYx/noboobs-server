@@ -54,6 +54,7 @@
 
 plugins/floodgate/**
 
+plugins/InventoryRollbackPlus/backups/**
 # JAR files are currently only experimentally supported
 # See the config option "experimental-jar-loading" and README for more information
 !.jar
