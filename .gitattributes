@@ -1,0 +1,2 @@
+plugins/example-plugin-1/config.yml filter=plugins/example-plugin-1/config.yml
+plugins/example-plugin-2/config.yml filter=plugins/example-plugin-2/config.yml

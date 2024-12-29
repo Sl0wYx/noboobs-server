@@ -1,0 +1,154 @@
+{
+  "format_version": "1",
+  "items": {
+    "minecraft:bundle": [
+      {
+        "name": "gmdl_0e61591",
+        "allow_offhand": true,
+        "icon": "gmdl_0e61591",
+        "custom_model_data": 10001
+      },
+      {
+        "name": "gmdl_0e61591",
+        "allow_offhand": true,
+        "icon": "gmdl_0e61591",
+        "custom_model_data": 10001
+      }
+    ],
+    "minecraft:carrot_on_a_stick": [
+      {
+        "name": "gmdl_e9fd673",
+        "allow_offhand": true,
+        "icon": "gmdl_e9fd673",
+        "custom_model_data": 10001
+      },
+      {
+        "name": "gmdl_cad7b80",
+        "allow_offhand": true,
+        "icon": "gmdl_cad7b80",
+        "custom_model_data": 10002
+      },
+      {
+        "name": "gmdl_8f51901",
+        "allow_offhand": true,
+        "icon": "gmdl_8f51901",
+        "custom_model_data": 10003
+      }
+    ],
+    "minecraft:chainmail_helmet": [
+      {
+        "name": "gmdl_9af7a11",
+        "allow_offhand": true,
+        "icon": "helmet",
+        "frame": 1,
+        "custom_model_data": 10001
+      },
+      {
+        "name": "gmdl_f58ce29",
+        "allow_offhand": true,
+        "icon": "helmet",
+        "frame": 1,
+        "custom_model_data": 10002
+      }
+    ],
+    "minecraft:cookie": [
+      {
+        "name": "gmdl_69eab38",
+        "allow_offhand": true,
+        "icon": "gmdl_69eab38",
+        "custom_model_data": 10008
+      },
+      {
+        "name": "gmdl_c33175b",
+        "allow_offhand": true,
+        "icon": "gmdl_c33175b",
+        "custom_model_data": 10009
+      },
+      {
+        "name": "gmdl_c751745",
+        "allow_offhand": true,
+        "icon": "gmdl_c751745",
+        "custom_model_data": 10010
+      },
+      {
+        "name": "gmdl_85f734e",
+        "allow_offhand": true,
+        "icon": "gmdl_85f734e",
+        "custom_model_data": 10011
+      },
+      {
+        "name": "gmdl_2aaf792",
+        "allow_offhand": true,
+        "icon": "gmdl_2aaf792",
+        "custom_model_data": 10013
+      }
+    ],
+    "minecraft:paper": [
+      {
+        "name": "gmdl_a868a91",
+        "allow_offhand": true,
+        "icon": "paper",
+        "frame": 0,
+        "custom_model_data": 10001
+      },
+      {
+        "name": "gmdl_ce654db",
+        "allow_offhand": true,
+        "icon": "paper",
+        "frame": 0,
+        "custom_model_data": 10002
+      }
+    ],
+    "minecraft:white_dye": [
+      {
+        "name": "gmdl_dd49e23",
+        "allow_offhand": true,
+        "icon": "dye_powder",
+        "frame": 15,
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_ef9e545",
+        "allow_offhand": true,
+        "icon": "dye_powder",
+        "frame": 15,
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_8b7285d",
+        "allow_offhand": true,
+        "icon": "dye_powder",
+        "frame": 15,
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_7534193",
+        "allow_offhand": true,
+        "icon": "dye_powder",
+        "frame": 15,
+        "custom_model_data": 4
+      },
+      {
+        "name": "gmdl_e337369",
+        "allow_offhand": true,
+        "icon": "dye_powder",
+        "frame": 15,
+        "custom_model_data": 5
+      },
+      {
+        "name": "gmdl_7b60bf3",
+        "allow_offhand": true,
+        "icon": "dye_powder",
+        "frame": 15,
+        "custom_model_data": 6
+      },
+      {
+        "name": "gmdl_4cb4cad",
+        "allow_offhand": true,
+        "icon": "dye_powder",
+        "frame": 15,
+        "custom_model_data": 7
+      }
+    ]
+  }
+}
