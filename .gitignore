@@ -6,19 +6,6 @@
 
 # Inclusions / Exclusions done manually in this file or through plugin commands
 # MineCICD GITIGNORE PART BEGIN MARKER
-/plugins/AuthMe/*
-!/plugins/AuthMe/*/
-/plugins/InventoryRollbackPlus/*
-!/plugins/InventoryRollbackPlus/*/
-/plugins/LogBlock/*
-!/plugins/LogBlock/*/
-/plugins/LuckPerms/*
-!/plugins/LuckPerms/*/
-/plugins/SkinsRestorer/cache/*
-!/plugins/SkinsRestorer/cache/*/
-/plugins/SkinsRestorer/recommendations.json
-/plugins/SkinsRestorer/skins/*
-!/plugins/SkinsRestorer/skins/*/
 # MineCICD GITIGNORE PART END MARKER
 
 # MineCICD is priority EXCLUDED. It is not recommended to track it, as this could lead to security risks or other issues
@@ -68,6 +55,7 @@
 /plugins/floodgate/**
 /plugins/SkinsRestorer/cache/**
 /plugins/SkinsRestorer/skins/**
+/plugins/SkinsRestorer/recommendations.json
 /plugins/InventoryRollbackPlus/backups/**
 /plugins/spark/**
 /plugins/LogBlock/**
