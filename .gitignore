@@ -6,6 +6,8 @@
 
 # Inclusions / Exclusions done manually in this file or through plugin commands
 # MineCICD GITIGNORE PART BEGIN MARKER
+/bluemap/*
+!/bluemap/*/
 /plugins/AuthMe/*
 !/plugins/AuthMe/*/
 /plugins/LogBlock/*
