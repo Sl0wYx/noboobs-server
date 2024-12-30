@@ -12,15 +12,19 @@
 description:
   activated: true
   text:
-    - "Привіт! <newline>Світ!"
-    - "<yellow>тут могла бути ваша реклама"
-    - "<yellow><bold>no boobs <newline><#739BD0>Зимовий"
+    - "Hello! <newline>World!"
+    - "Use &c<underlined>color <bold><yellow>codes!"
+    - "&ka &rFormatting &nworks&r too! &ka"
+    - "<#800080>Players: <online>/<max>"
+    - "<rainbow>RAINBOW COLOR SUPPORT! :D</rainbow>"
+    - "<center><yellow><bold>Centered text!<bold></yellow><newline>Second line!"
+
 # Not supported on: Spigot (Paper works), Sponge
 version:
   # The version name is shown if the version of the client doesn't match the version of the server.
   # <after_icon> adds a bunch of spaces so the text is after the icon. (Only for protocol)
   name:
-    activated: false
+    activated: true
     text: "&1My custom version name!"
   # Dangerous! This can show a wrong server version to the client.
   # When the client is on a different protocol, it will show the version name set above.
@@ -36,8 +40,8 @@ players:
     value: 0
   # Override your max player count
   max:
-    activated: true
-    value: 0
+    activated: false
+    value: 10
   # Will show ??? as the player count.
   # Not supported on: Spigot (Paper works)
   hide: false
@@ -51,7 +55,7 @@ players:
       activated: false
       hidden:
         - "Notch"
-    activated: false
+    activated: true
     text:
       - "&3Hello world!"
       - "&eNewline!"
@@ -61,7 +65,7 @@ players:
 
 # The image of a server in the server list.
 favicon:
-  activated: true
+  activated: false
   # Favicons are stored in the /plugins/PistonMOTD/favicons folder.
   # Favicons are 64x64 pixels and must be PNG. The file name does not matter for random mode.
   # Valid: RANDOM, SINGLE
