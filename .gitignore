@@ -16,6 +16,7 @@
 !/plugins/LuckPerms/*/
 /plugins/SkinsRestorer/cache/*
 !/plugins/SkinsRestorer/cache/*/
+/plugins/SkinsRestorer/recommendations.json
 /plugins/SkinsRestorer/skins/*
 !/plugins/SkinsRestorer/skins/*/
 # MineCICD GITIGNORE PART END MARKER
@@ -67,7 +68,6 @@
 /plugins/floodgate/**
 /plugins/SkinsRestorer/cache/**
 /plugins/SkinsRestorer/skins/**
-/plugins/SkinsRestorer/recommendations.json
 /plugins/InventoryRollbackPlus/backups/**
 /plugins/spark/**
 /plugins/LogBlock/**
