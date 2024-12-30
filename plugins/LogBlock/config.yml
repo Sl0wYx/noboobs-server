@@ -40,13 +40,13 @@ lookup:
   linesLimit: 1500
   dateFormatShort: MM-dd HH:mm
 mysql:
-  password: pass
-  host: localhost
+  password: L1VdsEQ@n6ojaTffS.M6UpHF
+  host: 185.240.242.214
   port: 3306
   useSSL: true
-  database: minecraft
+  database: s39619_logblock
   requireSSL: false
-  user: username
+  user: u39619_5WbC7dHVF4
 questioner:
   askRollbacks: true
   askRedos: true
@@ -107,3 +107,4 @@ loggedWorlds:
 - world
 - world_nether
 - world_the_end
+previousMinecraftVersion: 1.21.3
