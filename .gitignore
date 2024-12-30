@@ -59,6 +59,7 @@ plugins/SkinRestorer/recommendations.json
 plugins/InventoryRollbackPlus/backups/**
 plugins/spark/**
 plugins/LogBlock/**
+plugins/Lootin/data/**
 
 # JAR files are currently only experimentally supported
 # See the config option "experimental-jar-loading" and README for more information
