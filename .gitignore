@@ -53,8 +53,13 @@
 !.yml
 
 plugins/floodgate/**
-
+plugins/SkinRestorer/cache/**
+plugins/SkinRestorer/skins/**
+plugins/SkinRestorer/recommendations.json
 plugins/InventoryRollbackPlus/backups/**
+plugins/spark/**
+plugins/LogBlock/**
+
 # JAR files are currently only experimentally supported
 # See the config option "experimental-jar-loading" and README for more information
 !.jar
