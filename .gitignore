@@ -10,6 +10,8 @@
 !/bluemap/*/
 /plugins/AuthMe/*
 !/plugins/AuthMe/*/
+/plugins/BlueMap/*
+!/plugins/BlueMap/*/
 /plugins/LogBlock/*
 !/plugins/LogBlock/*/
 /plugins/LuckPerms/*
