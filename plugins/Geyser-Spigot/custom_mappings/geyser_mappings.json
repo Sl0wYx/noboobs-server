@@ -83,6 +83,456 @@
         "custom_model_data": 10013
       }
     ],
+    "minecraft:orange_tulip": [
+      {
+        "name": "gmdl_a6deb7f",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360000
+      },
+      {
+        "name": "gmdl_9b3d301",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360001
+      },
+      {
+        "name": "gmdl_9409a00",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360002
+      },
+      {
+        "name": "gmdl_679598c",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360003
+      },
+      {
+        "name": "gmdl_f969a60",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360004
+      },
+      {
+        "name": "gmdl_7086ee3",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360005
+      },
+      {
+        "name": "gmdl_da7e213",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360006
+      },
+      {
+        "name": "gmdl_6e70049",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360007
+      },
+      {
+        "name": "gmdl_fc7cc6d",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360008
+      },
+      {
+        "name": "gmdl_56b6a3c",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360009
+      },
+      {
+        "name": "gmdl_b970e90",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360010
+      },
+      {
+        "name": "gmdl_071a1ca",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360011
+      },
+      {
+        "name": "gmdl_cf05958",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360012
+      },
+      {
+        "name": "gmdl_53d989f",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360013
+      },
+      {
+        "name": "gmdl_6342979",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360014
+      },
+      {
+        "name": "gmdl_c70cd76",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360015
+      },
+      {
+        "name": "gmdl_f0e01f0",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360016
+      },
+      {
+        "name": "gmdl_f2187c3",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360017
+      },
+      {
+        "name": "gmdl_7c38349",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360018
+      },
+      {
+        "name": "gmdl_f3f5a9b",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360019
+      },
+      {
+        "name": "gmdl_a115260",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360020
+      },
+      {
+        "name": "gmdl_635d56b",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360021
+      },
+      {
+        "name": "gmdl_8debc3f",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360022
+      },
+      {
+        "name": "gmdl_68f860b",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360023
+      },
+      {
+        "name": "gmdl_d2232ab",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360024
+      },
+      {
+        "name": "gmdl_7a489dd",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360025
+      },
+      {
+        "name": "gmdl_9d8e2e1",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360026
+      },
+      {
+        "name": "gmdl_c46638e",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360027
+      },
+      {
+        "name": "gmdl_7b296bc",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360028
+      },
+      {
+        "name": "gmdl_6afaa6d",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360029
+      },
+      {
+        "name": "gmdl_c131398",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360030
+      },
+      {
+        "name": "gmdl_ffb8540",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360031
+      },
+      {
+        "name": "gmdl_4873290",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360032
+      },
+      {
+        "name": "gmdl_1b8dada",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360033
+      },
+      {
+        "name": "gmdl_e0fd155",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360034
+      },
+      {
+        "name": "gmdl_4505401",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360035
+      },
+      {
+        "name": "gmdl_ee65121",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360036
+      },
+      {
+        "name": "gmdl_fd48d5f",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360037
+      },
+      {
+        "name": "gmdl_0d42b99",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360038
+      },
+      {
+        "name": "gmdl_6da3008",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360039
+      },
+      {
+        "name": "gmdl_0698753",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360040
+      },
+      {
+        "name": "gmdl_990bf5d",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360041
+      },
+      {
+        "name": "gmdl_9de80e9",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360042
+      },
+      {
+        "name": "gmdl_c036479",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360043
+      },
+      {
+        "name": "gmdl_d2ec123",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360044
+      },
+      {
+        "name": "gmdl_009323a",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360045
+      },
+      {
+        "name": "gmdl_3b2bd91",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360046
+      },
+      {
+        "name": "gmdl_e006518",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360047
+      },
+      {
+        "name": "gmdl_288305d",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360048
+      },
+      {
+        "name": "gmdl_696d671",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360049
+      },
+      {
+        "name": "gmdl_b4e8649",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360050
+      },
+      {
+        "name": "gmdl_5ab184f",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360051
+      },
+      {
+        "name": "gmdl_73d9415",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360052
+      },
+      {
+        "name": "gmdl_ff146e7",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360053
+      },
+      {
+        "name": "gmdl_e5be1e3",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360054
+      },
+      {
+        "name": "gmdl_59edd96",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360055
+      },
+      {
+        "name": "gmdl_63bc906",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360056
+      },
+      {
+        "name": "gmdl_a76d4fa",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360057
+      },
+      {
+        "name": "gmdl_ed94291",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360058
+      },
+      {
+        "name": "gmdl_64995f8",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360059
+      },
+      {
+        "name": "gmdl_12c4e4c",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360060
+      },
+      {
+        "name": "gmdl_8bbcd04",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360061
+      },
+      {
+        "name": "gmdl_098d61d",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360062
+      },
+      {
+        "name": "gmdl_7f22f68",
+        "allow_offhand": true,
+        "icon": "camera",
+        "frame": 0,
+        "custom_model_data": 360063
+      }
+    ],
     "minecraft:paper": [
       {
         "name": "gmdl_a868a91",
