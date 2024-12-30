@@ -12,6 +12,8 @@
 !/plugins/LuckPerms/*/
 /plugins/SkinsRestorer/cache/*
 !/plugins/SkinsRestorer/cache/*/
+/plugins/spark/*
+!/plugins/spark/*/
 # MineCICD GITIGNORE PART END MARKER
 
 # MineCICD is priority EXCLUDED. It is not recommended to track it, as this could lead to security risks or other issues
