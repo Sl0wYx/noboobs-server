@@ -1,0 +1,74 @@
+
+# vim: set tabstop=2 softtabstop=0 expandtab shiftwidth=2:
+#
+# >> Дивіться lang-en.yml для опису змінних <<
+#
+# +-----------------------------------+
+# | УВАГА: Не змінюйте цей файл!      |
+# +-----------------------------------+
+#
+# Він буде тихо перезаписаний при оновленнях! Якщо ви хочете
+# налаштувати рядки самостійно, скопіюйте цей файл у lang-custom.yml
+# та встановіть мову в config.yml як "lang: 'custom'"
+
+# НЕ ЗМІНЮВАТИ! Версія цього мовного файлу. Використовується для визначення
+# чи потребує файл оновлення.
+version: 4
+# Відповідний мовний код, використаний у пакеті ресурсів. Використовується для
+# генерації пакета ресурсів. Зазвичай це комбінація мовного коду (ISO 639)
+# та коду країни (ISO 3166).
+resource_pack_lang_code: 'uk_ua'
+
+item_ancient_tome:
+  name: "Стародавній фоліант"
+
+item_enchanted_ancient_tome:
+  name: "Зачарований стародавній фоліант"
+
+item_ancient_tome_of_knowledge:
+  name: "Стародавній фоліант знань"
+
+item_enchanted_ancient_tome_of_knowledge:
+  name: "Зачарований стародавній фоліант знань"
+
+item_ancient_tome_of_the_gods:
+  name: "Стародавній фоліант богів"
+
+item_enchanted_ancient_tome_of_the_gods:
+  name: "Зачарований стародавній фоліант богів"
+
+enchantment_angel:
+  name: "Ангел"
+
+enchantment_grappling_hook:
+  name: "Гарпун"
+
+enchantment_hell_bent:
+  name: "Міцний горішок"
+
+enchantment_leafchopper:
+  name: "Різак листя"
+
+enchantment_lightning:
+  name: "Блискавка"
+
+enchantment_rake:
+  name: "Граблі"
+
+enchantment_seeding:
+  name: "Посів"
+
+enchantment_soulbound:
+  name: "Прив'язка душі"
+  drop_lock_warning: "Предмети з прив'язкою душі можуть бути викинуті лише мишкою"
+  drop_cooldown: "Викиньте ще раз, щоб викинути"
+  dropped_notification: "Викинуто предмет з прив'язкою душі: %1$s"
+
+enchantment_take_off:
+  name: "Зліт"
+
+enchantment_unbreakable:
+  name: "Неруйнівний"
+
+enchantment_wings:
+  name: "Крила"

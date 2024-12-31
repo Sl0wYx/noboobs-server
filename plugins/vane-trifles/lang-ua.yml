@@ -1,0 +1,105 @@
+
+# vim: set tabstop=2 softtabstop=0 expandtab shiftwidth=2:
+#
+# >> Дивіться lang-en.yml для опису змінних <<
+#
+# +-----------------------------------+
+# | УВАГА: Не змінюйте цей файл!      |
+# +-----------------------------------+
+#
+# Він буде тихо перезаписаний при оновленнях! Якщо ви хочете
+# налаштувати рядки самостійно, скопіюйте цей файл у lang-custom.yml
+# та встановіть мову в config.yml як "lang: 'custom'"
+
+# НЕ ЗМІНЮВАТИ! Версія цього мовного файлу. Використовується для визначення
+# чи потребує файл оновлення.
+version: 4
+# Відповідний мовний код, використаний у пакеті ресурсів. Використовується для
+# генерації пакета ресурсів. Зазвичай це комбінація мовного коду (ISO 639)
+# та коду країни (ISO 3166).
+resource_pack_lang_code: 'uk_ua'
+
+command_heads:
+  usage: "%1$s"
+  description: "Отримати голову з бібліотеки голів."
+  help: "Активуйте, щоб відкрити бібліотеку голів."
+
+command_finditem:
+  usage: "%1$s"
+  description: "Пошук вказаного матеріалу у найближчих контейнерах і у створінь."
+  help: "Пошук вказаного матеріалу у найближчих контейнерах і у створінь."
+
+command_setspawn:
+  usage: "%1$s"
+  description: "Встановлює глобальну точку спавну на поточну позицію."
+  help: "Встановлює глобальну точку спавну на поточну позицію."
+
+storage:
+  open_stacked_item: "Вам потрібно розділити ці предмети, щоб відкрити їх."
+  item_pouch:
+    name: "Сумка"
+  item_backpack:
+    name: "Рюкзак"
+
+xp_bottles:
+  item_small_xp_bottle:
+    name: "Маленька пляшка досвіду"
+  item_medium_xp_bottle:
+    name: "Середня пляшка досвіду"
+  item_large_xp_bottle:
+    name: "Велика пляшка досвіду"
+
+item_empty_xp_bottle:
+  name: "Порожня пляшка досвіду"
+
+item_north_compass:
+  name: "Північний Компас"
+
+item_reinforced_elytra:
+  name: "Незеритові елітри"
+
+item_file:
+  name: "Напилок"
+
+item_slime_bucket:
+  name: "Слизень у відрі"
+
+item_papyrus_scroll:
+  name: "Порожній сувій"
+
+item_trowel:
+  name: "Шпатель"
+  lore:
+    - "§7ПКМ по цьому предмету в інвентарі, щоб змінити джерело сировини."
+    - "§7Поточне джерело сировини: %1$s"
+
+sickles:
+  item_wooden_sickle:
+    name: "Дерев'яний Серп"
+  item_stone_sickle:
+    name: "Кам'яний Серп"
+  item_iron_sickle:
+    name: "Залізний Серп"
+  item_golden_sickle:
+    name: "Золотий Серп"
+  item_diamond_sickle:
+    name: "Діамантовий Серп"
+  item_netherite_sickle:
+    name: "Незеритовий Серп"
+
+scrolls:
+  item_home_scroll:
+    name: "Сувій телепортації (Додому)"
+  item_unstable_scroll:
+    name: "Сувій телепортації (Нестабільний)"
+    teleport_no_previous_teleport: "§cВи ще жодного разу не користувалися сувоями."
+  item_spawn_scroll:
+    name: "Сувій телепортації (Спавн)"
+  item_lodestone_scroll:
+    name: "Сувій телепортації (Магнетит)"
+    teleport_no_bound_lodestone: "§bПКМ у присіданні по магнетиту, щоб (пере)прив'язати цей сувій."
+    teleport_missing_lodestone: "§cЗдається, сувій нічого не робить.. &6Ви боїтеся, що прив'язаний магнетит міг зникнути."
+    bound_lore: "§7Прив'язано до (%2$s§7, %3$s§7, %4$s§7) у %1$s"
+  item_death_scroll:
+    name: "Сувій телепортації (До місця смерті)"
+    teleport_no_recent_death: "§cВи ще не вмирали або вже використали цей сувій!"
